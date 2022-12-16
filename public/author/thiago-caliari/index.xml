@@ -5,21 +5,12 @@
     <link>https://example.com/author/thiago-caliari/</link>
       <atom:link href="https://example.com/author/thiago-caliari/index.xml" rel="self" type="application/rss+xml" />
     <description>Thiago Caliari</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language>
     <image>
-      <url>https://example.com/media/icon_hu9908d69d9bb7f7dd2a76b27d933f6722_49721_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/author/thiago-caliari/avatar_hu4db83f2c341baa21edc0be7d98d1f4c6_28735_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Thiago Caliari</title>
       <link>https://example.com/author/thiago-caliari/</link>
     </image>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
