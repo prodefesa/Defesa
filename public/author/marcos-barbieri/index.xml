@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcos  Barbieri | Defesa</title>
+    <link>https://example.com/author/marcos-barbieri/</link>
+      <atom:link href="https://example.com/author/marcos-barbieri/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcos  Barbieri</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language>
+    <image>
+      <url>https://example.com/author/marcos-barbieri/avatar_hu576634bc8225e65299f69ef6e120f240_162923_270x270_fill_lanczos_center_3.png</url>
+      <title>Marcos  Barbieri</title>
+      <link>https://example.com/author/marcos-barbieri/</link>
+    </image>
+    
+  </channel>
+</rss>
