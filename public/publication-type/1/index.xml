@@ -5,7 +5,7 @@
     <link>https://defesa.netlify.app/publication-type/1/</link>
       <atom:link href="https://defesa.netlify.app/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://defesa.netlify.app/media/icon_hu9908d69d9bb7f7dd2a76b27d933f6722_49721_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,16 +13,56 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://defesa.netlify.app/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://defesa.netlify.app/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>Investir no desenvolvimento ou simplesmente comprar? Uma exploração da controvérsia em torno da substituição de aviões de caça para a Força Aérea Brasileira</title>
+      <link>https://defesa.netlify.app/publication/artigoconferencia_correa_caliari_bichoffe2021/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://defesa.netlify.app/publication/artigoconferencia_correa_caliari_bichoffe2021/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+
+--&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+
+&lt;/style&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
