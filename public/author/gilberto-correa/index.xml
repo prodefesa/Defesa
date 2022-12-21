@@ -2,34 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gilberto Corrêa | Defesa</title>
-    <link>https://example.com/author/gilberto-correa/</link>
-      <atom:link href="https://example.com/author/gilberto-correa/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://defesa.netlify.app/author/gilberto-correa/</link>
+      <atom:link href="https://defesa.netlify.app/author/gilberto-correa/index.xml" rel="self" type="application/rss+xml" />
     <description>Gilberto Corrêa</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language>
     <image>
-      <url>https://example.com/author/gilberto-correa/avatar_hu3502d27fcd59af2fdce86f52a27b54b8_16708_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://defesa.netlify.app/author/gilberto-correa/avatar_hu3502d27fcd59af2fdce86f52a27b54b8_16708_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Gilberto Corrêa</title>
-      <link>https://example.com/author/gilberto-correa/</link>
+      <link>https://defesa.netlify.app/author/gilberto-correa/</link>
     </image>
-    
-  </channel>
-</rss>
-k>
-    </image>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

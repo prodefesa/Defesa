@@ -2,132 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://defesa.netlify.app/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>https://defesa.netlify.app/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/example/</loc>
+    <loc>https://defesa.netlify.app/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://defesa.netlify.app/post/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/20-12-01-wowchemy-prize/</loc>
+    <loc>https://defesa.netlify.app/post/20-12-01-wowchemy-prize/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/2/</loc>
+    <loc>https://defesa.netlify.app/publication-type/2/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/</loc>
+    <loc>https://defesa.netlify.app/publication/journal-article/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/authors/</loc>
+    <loc>https://defesa.netlify.app/authors/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/gilberto-correa/</loc>
+    <loc>https://defesa.netlify.app/author/gilberto-correa/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>https://defesa.netlify.app/publication/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>https://defesa.netlify.app/publication_types/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/source-themes/</loc>
+    <loc>https://defesa.netlify.app/tag/source-themes/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://defesa.netlify.app/tags/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://defesa.netlify.app/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://defesa.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/plot/</loc>
+    <loc>https://defesa.netlify.app/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/category/r/</loc>
+    <loc>https://defesa.netlify.app/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/r-markdown/</loc>
+    <loc>https://defesa.netlify.app/tag/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/regression/</loc>
+    <loc>https://defesa.netlify.app/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/20-12-02-icml-best-paper/</loc>
+    <loc>https://defesa.netlify.app/post/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/3/</loc>
+    <loc>https://defesa.netlify.app/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/preprint/</loc>
+    <loc>https://defesa.netlify.app/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/thiago-caliari/</loc>
+    <loc>https://defesa.netlify.app/author/thiago-caliari/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/1/</loc>
+    <loc>https://defesa.netlify.app/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/conference-paper/</loc>
+    <loc>https://defesa.netlify.app/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/ligia-urbina/</loc>
+    <loc>https://defesa.netlify.app/author/ligia-urbina/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/admin/</loc>
+    <loc>https://defesa.netlify.app/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://defesa.netlify.app/contact/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/people/</loc>
+    <loc>https://defesa.netlify.app/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/gilberto-correa/</loc>
+    <loc>https://defesa.netlify.app/author/gilberto-correa/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/ligia-urbina/</loc>
+    <loc>https://defesa.netlify.app/author/ligia-urbina/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tour/</loc>
+    <loc>https://defesa.netlify.app/tour/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/marcos-barbieri/</loc>
+    <loc>https://defesa.netlify.app/author/marcos-barbieri/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/thiago-caliari/</loc>
+    <loc>https://defesa.netlify.app/author/thiago-caliari/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

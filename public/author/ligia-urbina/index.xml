@@ -1,30 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lígia Urbina | Defesa</title>
-    <link>https://example.com/author/ligia-urbina/</link>
-      <atom:link href="https://example.com/author/ligia-urbina/index.xml" rel="self" type="application/rss+xml" />
-    <description>Lígia Urbina</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <title>Ligia Urbina | Defesa</title>
+    <link>https://defesa.netlify.app/author/ligia-urbina/</link>
+      <atom:link href="https://defesa.netlify.app/author/ligia-urbina/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ligia Urbina</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language>
     <image>
-      <url>https://example.com/media/icon_hu9908d69d9bb7f7dd2a76b27d933f6722_49721_512x512_fill_lanczos_center_3.png</url>
-      <title>Lígia Urbina</title>
-      <link>https://example.com/author/ligia-urbina/</link>
+      <url>https://defesa.netlify.app/author/ligia-urbina/avatar_hu9462eebbe4eef9b3c7405d45e14d05cd_20317_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ligia Urbina</title>
+      <link>https://defesa.netlify.app/author/ligia-urbina/</link>
     </image>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
