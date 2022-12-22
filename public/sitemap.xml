@@ -245,9 +245,6 @@
     <loc>https://defesa.netlify.app/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://defesa.netlify.app/author/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://defesa.netlify.app/contact/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -267,6 +264,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://defesa.netlify.app/author/thiago-caliari/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://defesa.netlify.app/author/xx/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
