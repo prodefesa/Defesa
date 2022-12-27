@@ -14,22 +14,12 @@
     
     <item>
       <title>Brazilian Industrial Defense Base Profile</title>
-      <link>https://defesa.netlify.app/publication/artigo2020_leske_santos/</link>
+      <link>https://defesa.netlify.app/publication/2020artigo_leske_santos/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://defesa.netlify.app/publication/artigo2020_leske_santos/</guid>
-      <description>&lt;!--
+      <guid>https://defesa.netlify.app/publication/2020artigo_leske_santos/</guid>
+      <description>
 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
-
---&gt;
 &lt;style type=&#34;text/css&#34;&gt;
 
 body {text-align: justify},
@@ -61,8 +51,7 @@ h3,h4,h5,h6{
 #}
 
 
-&lt;/style&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
+&lt;/style&gt;
 </description>
     </item>
     
