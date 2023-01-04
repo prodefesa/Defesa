@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://defesa.netlify.app/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://defesa.netlify.app/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://defesa.netlify.app/event/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://defesa.netlify.app/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -290,6 +290,34 @@
     <lastmod>2020-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://defesa.netlify.app/publication-type/1/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://defesa.netlify.app/author/charles-souza/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://defesa.netlify.app/author/mayara-bovo/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://defesa.netlify.app/tag/patentes/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://defesa.netlify.app/publication/2020charles_mayara/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://defesa.netlify.app/tag/prospeccao-tecnologica/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://defesa.netlify.app/tag/veiculos-aereos-nao-tripulados/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://defesa.netlify.app/publication/2020artigo_molina_pedone/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -327,7 +355,13 @@
     <loc>https://defesa.netlify.app/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://defesa.netlify.app/author/charles-souza/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://defesa.netlify.app/author/gilberto-correa/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://defesa.netlify.app/author/josiane-francelino/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://defesa.netlify.app/author/ligia-urbina/</loc>

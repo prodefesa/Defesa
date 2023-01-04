@@ -1,35 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Defesa</title>
+    <title>1 | logo.png</title>
     <link>https://defesa.netlify.app/publication-type/1/</link>
       <atom:link href="https://defesa.netlify.app/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://defesa.netlify.app/media/icon_hu9908d69d9bb7f7dd2a76b27d933f6722_49721_512x512_fill_lanczos_center_3.png</url>
+      <url>https://defesa.netlify.app/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>1</title>
       <link>https://defesa.netlify.app/publication-type/1/</link>
     </image>
     
     <item>
-      <title>Investir no desenvolvimento ou simplesmente comprar? Uma exploração da controvérsia em torno da substituição de aviões de caça para a Força Aérea Brasileira</title>
-      <link>https://defesa.netlify.app/publication/artigoconferencia_correa_caliari_bichoffe2021/</link>
-      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://defesa.netlify.app/publication/artigoconferencia_correa_caliari_bichoffe2021/</guid>
-      <description>&lt;!--
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
-
---&gt;
+      <title>Prospecção de Patentes e Tendências Tecnológicas em Veículos Aéreos Não Tripulados</title>
+      <link>https://defesa.netlify.app/publication/2020charles_mayara/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://defesa.netlify.app/publication/2020charles_mayara/</guid>
+      <description>&lt;p&gt;Para mais informações acesse: &lt;a href=&#34;https://www.sige.ita.br/edicoes-anteriores/2020/ST/ST_02_3.pdf?_t=1609272537&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIGE 2020&lt;/a&gt;.&lt;/p&gt;
 &lt;style type=&#34;text/css&#34;&gt;
 
 body {text-align: justify},
