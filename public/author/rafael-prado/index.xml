@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rafael Prado | logo.png</title>
-    <link>https://defesa.netlify.app/author/rafael-prado/</link>
-      <atom:link href="https://defesa.netlify.app/author/rafael-prado/index.xml" rel="self" type="application/rss+xml" />
+    <title>Rafael Prado | Defesa</title>
+    <link>https://prodefesa.netlify.app/author/rafael-prado/</link>
+      <atom:link href="https://prodefesa.netlify.app/author/rafael-prado/index.xml" rel="self" type="application/rss+xml" />
     <description>Rafael Prado</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://defesa.netlify.app/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>https://prodefesa.netlify.app/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>Rafael Prado</title>
-      <link>https://defesa.netlify.app/author/rafael-prado/</link>
+      <link>https://prodefesa.netlify.app/author/rafael-prado/</link>
     </image>
     
     <item>
       <title>Estimating fuel-efficiency while accounting for dynamic fleet management. Testing the effects of fuel price signals and fleet rollover</title>
-      <link>https://defesa.netlify.app/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</link>
+      <link>https://prodefesa.netlify.app/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://defesa.netlify.app/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</guid>
+      <guid>https://prodefesa.netlify.app/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</guid>
       <description>
 
 
