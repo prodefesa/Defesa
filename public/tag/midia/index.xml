@@ -18,6 +18,7 @@
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://prodefesa.netlify.app/project/midia/gripen/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
+
 body {text-align: justify},
 td {
    font-size: 15px;
@@ -37,15 +38,24 @@ h2,h3,h4,h5,h6{
 h3,h4,h5,h6{
   font-size: 18px;
 }
-&lt;/style&gt;
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 14px;#    border-left: 5px solid #c7b388;
+}
+
+
+&lt;/style&gt; 
 &lt;p&gt;Em dezembro de 2022 o Professor Marcos Barbieri concedeu entrevista para a &lt;a href=&#34;https://sputniknewsbrasil.com.br/20221226/mais-moderna-aeronave-de-combate-em-operacao-na-america-latina-diz-especialista-sobre-gripen-ng-26644535.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Revista Sputnik Brasil&lt;/a&gt; sobre o início das operações do caça Saab F-39 Gripen.  O especialista discorreu sobre o &lt;em&gt;upgrade&lt;/em&gt; tecnológico da Força Aérea Brasileira (FAB) com a aquisição da aeronave e salientou a importância da parceria do Brasil com a empresa sueca para o desenvolvimento da indústria de defesa nacional. Confira a entrevista na integra &lt;a href=&#34;https://sputniknewsbrasil.com.br/20221226/mais-moderna-aeronave-de-combate-em-operacao-na-america-latina-diz-especialista-sobre-gripen-ng-26644535.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Entrevista</title>
+      <title>Entrevista do professor para a TV</title>
       <link>https://prodefesa.netlify.app/project/midia/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       <guid>https://prodefesa.netlify.app/project/midia/2020-12-01-r-rmarkdown/</guid>
       <description>
 
@@ -145,7 +155,7 @@ h3,h4,h5,h6{
     </item>
     
     <item>
-      <title>Entrevista do professor Marcos Barbieri para o jornalista Fausto de Oliveira</title>
+      <title>Entrevista do professor Marcos Barbieri para o jornalista Fausto Oliveira</title>
       <link>https://prodefesa.netlify.app/project/midia/external-project/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       <guid>https://prodefesa.netlify.app/project/midia/external-project/</guid>

@@ -52,6 +52,7 @@ h3,h4,h5,h6{
 
 
 &lt;/style&gt;
+&lt;p&gt;Acesse a &lt;a href=&#34;http://www.ebrevistas.eb.mil.br/RMM/article/view/6250/6232&#34;&gt;Coleção Meira Mattos: Revista das Ciências Militares&lt;/a&gt; para mais informações.&lt;/p&gt;
 </description>
     </item>
     
@@ -95,6 +96,7 @@ h3,h4,h5,h6{
 
 
 &lt;/style&gt;
+&lt;p&gt;Acesse a publicação do &lt;a href=&#34;https://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_2672substuicao.pdf&#34;&gt;Instituto de Pesquisa Econômica Aplicada&lt;/a&gt; para mais informações.&lt;/p&gt;
 </description>
     </item>
     
@@ -138,6 +140,61 @@ h3,h4,h5,h6{
 
 
 &lt;/style&gt;
+&lt;p&gt;Acesse a &lt;a href=&#34;http://www.rest.uff.br/index.php/rest/article/view/243/pdf&#34;&gt;Revista Brasileira de Estudos Estratégicos&lt;/a&gt; para mais informações.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Saúde e Defesa: interfaces entre conceitos e setores estratégicos para a Segurança Nacional</title>
+      <link>https://prodefesa.netlify.app/publication/2021caplivro_ferreira_matos/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://prodefesa.netlify.app/publication/2021caplivro_ferreira_matos/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+
+--&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+ 
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 18px;
+    border-left: 5px solid #c7b388;
+}
+
+&lt;/style&gt; 
+&lt;p&gt;Acesse a &lt;a href=&#34;https://www.amazon.com.br/Rela%C3%A7%C3%B5es-Internacionais-Mundo-P%C3%B3s-Pandemia-Descontinuidades-ebook/dp/B0965VJD18&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Editora Cravo&lt;/a&gt; para mais informações.&lt;/p&gt;
 </description>
     </item>
     
@@ -181,6 +238,7 @@ h3,h4,h5,h6{
 
 
 &lt;/style&gt;
+&lt;p&gt;Acesse o &lt;a href=&#34;http://repositorio.ipea.gov.br/bitstream/11058/10596/1/bapi_28_defesa.pdf&#34;&gt;Boletim de Análise Político-Institucional&lt;/a&gt; para mais informações.&lt;/p&gt;
 </description>
     </item>
     
